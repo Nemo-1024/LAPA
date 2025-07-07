@@ -1,3 +1,5 @@
+
+
 # LAPA: Latent Action Pretraining from Videos
 [[Project]](https://latentactionpretraining.github.io/)
 [[Paper]](https://arxiv.org/abs/2410.11758)
